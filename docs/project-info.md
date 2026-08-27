@@ -1,5 +1,9 @@
 # Project information
 
+## Repository
+
+Managed with Git and GitHub.
+
 ## Name
 
 StudentHub
