@@ -1,0 +1,3 @@
+- No massive spam of pull request
+- Easy and understandable commit messages
+- No trolling
